@@ -82,7 +82,7 @@ Video Links: [Bilibili](https://www.bilibili.com/video/BV1qv41137Si?spm_id_from=
 Compiling tests passed on ubuntu 18.04 and 20.04 with ros installed. You can just execute the following commands one by one.
 ```
 sudo apt-get install libarmadillo-dev
-git clone https://github.com/SYSU-HILAB/Swarm-Control-Course-Addtional-Work.git
+git clone https://github.com/SYSU-HILAB/MASC-2026-bonus-homework.git
 cd Swarm-Formation
 catkin_make -j1
 source devel/setup.bash
