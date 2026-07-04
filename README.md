@@ -83,7 +83,7 @@ Compiling tests passed on ubuntu 18.04 and 20.04 with ros installed. You can jus
 ```
 sudo apt-get install libarmadillo-dev
 git clone https://github.com/SYSU-HILAB/MASC-2026-bonus-homework.git
-cd Swarm-Formation
+cd MASC-2026-bonus-homework
 catkin_make -j1
 source devel/setup.bash
 roslaunch ego_planner rviz.launch
